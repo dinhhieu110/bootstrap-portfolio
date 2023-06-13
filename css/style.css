@@ -1,0 +1,20 @@
+.navbar-nav li a {
+  color: green;
+  font-weight: 600;
+  margin: 10px;
+}
+
+.home-avt img {
+  width: 300px;
+  height: 300px;
+  float: right;
+  border-radius: 50%;
+}
+
+.social-links {
+  display: inline-block;
+}
+
+.list-skills li a {
+  list-style: none;
+}
